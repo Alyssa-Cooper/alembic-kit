@@ -1,6 +1,6 @@
 ---
 title: Getting Better Everyday
-feature_image: [Night sky in Colorado]"/Users/coops/alembic-kit/images/nightrado.jpg"
+feature_image: ![Colorado at night](nightrado.jpg)
 feature_text: |
   ## Hey, I'm Coop
 ---
