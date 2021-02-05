@@ -1,6 +1,6 @@
 ---
 title: Getting Better Everyday
-feature_image: ![Colorado at night](nightrado.jpg)
+feature_image: "nightrado.jpg"
 feature_text: |
   ## Hey, I'm Coop
 ---

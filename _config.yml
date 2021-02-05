@@ -56,7 +56,7 @@ collections:
     description: "Getting better everyday."
     feature_text: |
       Let's get better together.
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: "rado.jpg"
 
 # Collection settings
 defaults:
