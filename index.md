@@ -1,8 +1,13 @@
 ---
-title: Getting 1% Better Everyday
-feature_image: "https://picsum.photos/1300/400?image=989"
+title: Getting Better Everyday
+feature_image: [Night sky in Colorado]"/Users/coops/alembic-kit/images/nightrado.jpg"
 feature_text: |
   ## Hey, I'm Coop
 ---
 
-I'm a business program manager by day and a writer by night. I most of my time dabbling with productivity, habit building, and reading. This blog will be a collection of my thoughts and learnings.
+I started this blog as a way to capture my journey of habit building, living a sustainable life, and mindfulness. What's on my mind right now:
+
+* I'm currently writing a fantasy novel ~ 2 chapters in
+* Books: Atomic Habits, The Eye of the World, and Harrow the Ninth
+* Habit: 10 minute morning yoga
+* Life fix: Phone usage to 1 hour or less a day
