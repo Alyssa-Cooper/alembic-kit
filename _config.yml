@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Omnistruck'
 description: 'Welcome to Omnistruck.com'
 permalink: pretty
-logo: "Screen Shot 2021-02-04 at 9.40.12 PM.png"
+logo: "https://images.unsplash.com/photo-1506619216599-9d16d0903dfd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1949&q=80"
 
 # Pagination
 paginate: 5
@@ -53,10 +53,6 @@ collections:
   posts:
     title: Posts
     output: true
-    description: "Getting better everyday."
-    feature_text: |
-      Let's get better together.
-    feature_image: "rado.jpg"
 
 # Collection settings
 defaults:
