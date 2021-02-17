@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Omnistruck'
 description: 'Welcome to Omnistruck.com'
 permalink: pretty
-logo: /Users/coop/Documents/GitHub/alembic-kit/red_berries.jpg
+logo: 'red_berries.jpg'
 
 # Pagination
 paginate: 5
