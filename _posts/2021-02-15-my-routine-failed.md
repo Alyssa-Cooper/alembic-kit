@@ -3,7 +3,7 @@ title: Why My Morning Routine Failed
 categories:
 - Routines
 - Habits
-feature_image: "/Users/coop/Documents/GitHub/alembic-kit/rado.jpg"
+feature_image: /Users/coop/Documents/GitHub/alembic-kit/rado.jpg
 ---
 
 Three weeks ago I was meditating for five minutes a day, working out four days a week, keeping my phone usage to less than two hours a day, and devouring books. Now, my screen time is back up, I haven't meditated in weeks, and the last time I worked out was last Thursday. I'm still reading though my time spent doing so has decreased.
